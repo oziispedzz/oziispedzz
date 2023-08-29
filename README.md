@@ -20,12 +20,6 @@
 </p>
 
 
-
-## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-
 # Official Group
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
 - [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
@@ -33,4 +27,25 @@
 - [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
 - [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
 
- 
+ # Github stats
+<p>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oziispedzz&theme=dracula)
+</p>
+<p>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oziispedzz&theme=dracula)
+</p>
+
+# repo stats
+<p>
+<h3>COMING SOON</h3>
+  </p>
+
+## Donate
+
+- [Saweria](https://saweria.co/oziispedzz)
+- [Dana](https://)
+- [Ovo](https://)
+-
+
